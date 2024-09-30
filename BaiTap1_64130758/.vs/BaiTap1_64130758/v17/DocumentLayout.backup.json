@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1-Web Development\\2-Exam\\BaiTap1_64130758\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24CBC606-2D33-4609-97DA-3E62C22CD31E}|BaiTap1_64130758\\BaiTap1_64130758.csproj|D:\\1-Web Development\\2-Exam\\BaiTap1_64130758\\baitap1_64130758\\views\\pheptoan_64130758\\usearguments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24CBC606-2D33-4609-97DA-3E62C22CD31E}|BaiTap1_64130758\\BaiTap1_64130758.csproj|solutionrelative:baitap1_64130758\\views\\pheptoan_64130758\\usearguments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24CBC606-2D33-4609-97DA-3E62C22CD31E}|BaiTap1_64130758\\BaiTap1_64130758.csproj|d:\\1-web development\\2-exam\\baitap1_64130758\\baitap1_64130758\\controllers\\pheptoan_64130758controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24CBC606-2D33-4609-97DA-3E62C22CD31E}|BaiTap1_64130758\\BaiTap1_64130758.csproj|solutionrelative:baitap1_64130758\\controllers\\pheptoan_64130758controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24CBC606-2D33-4609-97DA-3E62C22CD31E}|BaiTap1_64130758\\BaiTap1_64130758.csproj|D:\\1-Web Development\\2-Exam\\BaiTap1_64130758\\baitap1_64130758\\models\\calmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24CBC606-2D33-4609-97DA-3E62C22CD31E}|BaiTap1_64130758\\BaiTap1_64130758.csproj|solutionrelative:baitap1_64130758\\models\\calmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24CBC606-2D33-4609-97DA-3E62C22CD31E}|BaiTap1_64130758\\BaiTap1_64130758.csproj|D:\\1-Web Development\\2-Exam\\BaiTap1_64130758\\baitap1_64130758\\views\\pheptoan_64130758\\userequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24CBC606-2D33-4609-97DA-3E62C22CD31E}|BaiTap1_64130758\\BaiTap1_64130758.csproj|solutionrelative:baitap1_64130758\\views\\pheptoan_64130758\\userequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24CBC606-2D33-4609-97DA-3E62C22CD31E}|BaiTap1_64130758\\BaiTap1_64130758.csproj|D:\\1-Web Development\\2-Exam\\BaiTap1_64130758\\baitap1_64130758\\views\\pheptoan_64130758\\useformcollection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24CBC606-2D33-4609-97DA-3E62C22CD31E}|BaiTap1_64130758\\BaiTap1_64130758.csproj|solutionrelative:baitap1_64130758\\views\\pheptoan_64130758\\useformcollection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24CBC606-2D33-4609-97DA-3E62C22CD31E}|BaiTap1_64130758\\BaiTap1_64130758.csproj|D:\\1-Web Development\\2-Exam\\BaiTap1_64130758\\baitap1_64130758\\views\\pheptoan_64130758\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24CBC606-2D33-4609-97DA-3E62C22CD31E}|BaiTap1_64130758\\BaiTap1_64130758.csproj|solutionrelative:baitap1_64130758\\views\\pheptoan_64130758\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UseRequest.cshtml",
+              "DocumentMoniker": "D:\\1-Web Development\\2-Exam\\BaiTap1_64130758\\BaiTap1_64130758\\Views\\PhepToan_64130758\\UseRequest.cshtml",
+              "RelativeDocumentMoniker": "BaiTap1_64130758\\Views\\PhepToan_64130758\\UseRequest.cshtml",
+              "ToolTip": "D:\\1-Web Development\\2-Exam\\BaiTap1_64130758\\BaiTap1_64130758\\Views\\PhepToan_64130758\\UseRequest.cshtml",
+              "RelativeToolTip": "BaiTap1_64130758\\Views\\PhepToan_64130758\\UseRequest.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T07:43:54.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UseFormCollection.cshtml",
+              "DocumentMoniker": "D:\\1-Web Development\\2-Exam\\BaiTap1_64130758\\BaiTap1_64130758\\Views\\PhepToan_64130758\\UseFormCollection.cshtml",
+              "RelativeDocumentMoniker": "BaiTap1_64130758\\Views\\PhepToan_64130758\\UseFormCollection.cshtml",
+              "ToolTip": "D:\\1-Web Development\\2-Exam\\BaiTap1_64130758\\BaiTap1_64130758\\Views\\PhepToan_64130758\\UseFormCollection.cshtml",
+              "RelativeToolTip": "BaiTap1_64130758\\Views\\PhepToan_64130758\\UseFormCollection.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T07:43:53.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UseArguments.cshtml",
+              "DocumentMoniker": "D:\\1-Web Development\\2-Exam\\BaiTap1_64130758\\BaiTap1_64130758\\Views\\PhepToan_64130758\\UseArguments.cshtml",
+              "RelativeDocumentMoniker": "BaiTap1_64130758\\Views\\PhepToan_64130758\\UseArguments.cshtml",
+              "ToolTip": "D:\\1-Web Development\\2-Exam\\BaiTap1_64130758\\BaiTap1_64130758\\Views\\PhepToan_64130758\\UseArguments.cshtml",
+              "RelativeToolTip": "BaiTap1_64130758\\Views\\PhepToan_64130758\\UseArguments.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T07:43:52.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PhepToan_64130758Controller.cs",
+              "DocumentMoniker": "D:\\1-Web Development\\2-Exam\\BaiTap1_64130758\\BaiTap1_64130758\\Controllers\\PhepToan_64130758Controller.cs",
+              "RelativeDocumentMoniker": "BaiTap1_64130758\\Controllers\\PhepToan_64130758Controller.cs",
+              "ToolTip": "D:\\1-Web Development\\2-Exam\\BaiTap1_64130758\\BaiTap1_64130758\\Controllers\\PhepToan_64130758Controller.cs",
+              "RelativeToolTip": "BaiTap1_64130758\\Controllers\\PhepToan_64130758Controller.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T07:42:02.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\1-Web Development\\2-Exam\\BaiTap1_64130758\\BaiTap1_64130758\\Views\\PhepToan_64130758\\Index.cshtml",
+              "RelativeDocumentMoniker": "BaiTap1_64130758\\Views\\PhepToan_64130758\\Index.cshtml",
+              "ToolTip": "D:\\1-Web Development\\2-Exam\\BaiTap1_64130758\\BaiTap1_64130758\\Views\\PhepToan_64130758\\Index.cshtml",
+              "RelativeToolTip": "BaiTap1_64130758\\Views\\PhepToan_64130758\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T07:38:19.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalModels.cs",
+              "DocumentMoniker": "D:\\1-Web Development\\2-Exam\\BaiTap1_64130758\\BaiTap1_64130758\\Models\\CalModels.cs",
+              "RelativeDocumentMoniker": "BaiTap1_64130758\\Models\\CalModels.cs",
+              "ToolTip": "D:\\1-Web Development\\2-Exam\\BaiTap1_64130758\\BaiTap1_64130758\\Models\\CalModels.cs",
+              "RelativeToolTip": "BaiTap1_64130758\\Models\\CalModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T07:34:26.654Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
