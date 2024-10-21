@@ -2,18 +2,61 @@
     ViewBag.Title = "Phép toán";
     Layout = null;
 }
-<h4>THỰC HIỆN PHÉP TOÁN CƠ BẢN</h4>
+
+<style>
+    .headertext{
+        padding: 8px 0px;
+        font-size: 24px;
+        display: block;
+        font-weight: bold;
+    }
+    .text{
+        padding-bottom: 10px;
+    }
+    .textfield{
+        padding-bottom: 10px;
+    }
+    .accordion-button{
+        padding-bottom: 10px;
+    }
+    .form-container{
+        margin: 20px;
+    }
+    .form-container div{
+        margin-bottom: 15px;
+    }
+    input[type="text"]{
+        padding: 5px;
+        margin-top: 5px;
+    }
+    input[type="radio"]{
+        margin-left: 10px;
+    }
+    input[type="submit"]{
+        padding:10px 15px;
+        margin-top: 10px;
+    }
+    .result{
+        margin-top:20px;
+    }
+</style>
+<div class="headertext">
+    THỰC HIỆN PHÉP TOÁN CƠ BẢN
+</div>
 <form name="f1" action="/PhepToan_64130758/Index" method="post">
-    <div>
-        Nhập a: <input type="text" name="a" /> <br />
-        Nhập b: <input type="text" name="b" />
+    <div class="textfield">
+        <div class="text">
+            Nhập a: <input type="text" name="a" /> <br />
+            Nhập b: <input type="text" name="b" />
+        </div>
+        <div>
+            <input type="radio" checked name="pt" value="+" />Cộng &nbsp;
+            <input type="radio" name="pt" value="-" />Trừ &nbsp;
+            <input type="radio" name="pt" value="*" />Nhân&nbsp;
+            <input type="radio" name="pt" value="/" />Chia&nbsp;
+        </div>
+        <div><input type="submit" value="Tính toán" /></div>
     </div>
-    <div>
-        <input type="radio" checked name="pt" value="+" />Cộng &nbsp;
-        <input type="radio" name="pt" value="-" />Trừ &nbsp;
-        <input type="radio" name="pt" value="*" />Nhân&nbsp;
-        <input type="radio" name="pt" value="/" />Chia&nbsp;
-    </div>
-    <div><input type="submit" value="Tính toán" /></div>
+    
     <div>Kết quả: <input type="text" name="kq" value=@ViewBag.KQ /></div>
 </form>

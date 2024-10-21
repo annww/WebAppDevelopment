@@ -1,16 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\BaiTap2_64130758",
-    "\\BaiTap2_64130758\\BaiTap2_64130758",
-    "\\BaiTap2_64130758\\BaiTap2_64130758\\Controllers",
-    "\\BaiTap2_64130758\\BaiTap2_64130758\\Views",
-    "\\BaiTap2_64130758\\BaiTap2_64130758\\Views\\SinhVien_64130758",
-    "\\BaiTap3_64130758",
-    "\\BaiTap3_64130758\\BaiTap3_64130758",
-    "\\BaiTap3_64130758\\BaiTap3_64130758\\BaiTap3_64130758",
-    "\\BaiTap3_64130758\\BaiTap3_64130758\\BaiTap3_64130758\\Controllers"
+    ""
   ],
-  "SelectedNode": "\\BaiTap3_64130758\\BaiTap3_64130758\\BaiTap3_64130758\\BaiTap3_64130758.csproj",
+  "SelectedNode": "\\BaiTap3_64130758.sln",
   "PreviewInSolutionExplorer": false
 }
