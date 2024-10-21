@@ -3,24 +3,45 @@
     ViewBag.Title = "Index3";
 }
 
-<h4> THÔNG TIN SINH VIÊN </h4>
-<form name="sv" action="/SinhVien_64130758/Register3" method="post">
-    <table>
+<style>
+    .headertext {
+        font-size: 24px;
+        font-weight: bold;
+        padding: 10px 0px;
+    }
+
+    input[type="text"] {
+        width: 100%;
+    }
+
+    table {
+        border-spacing: 0 10px;
+    }
+
+    input[type="submit"] {
+        padding: 4px 8px;
+    }
+</style>
+<div class="headertext">
+    THÔNG TIN SINH VIÊN
+</div>
+<form name="sv" action="/SinhVien_64130758/Index2" method="post">
+    <table class="svinput">
         <tr>
-            <td>Ma sinh vien: </td>
+            <td>Mã sinh viên: </td>
             <td><input type="text" name="Id" /></td>
         </tr>
         <tr>
-            <td>Ho va ten: </td>
-            <td><input type="text" name="Name"</td>
+            <td>Họ và tên: </td>
+            <td><input type="text" name="Name" /></td>
         </tr>
         <tr>
-            <td>Diem: </td>
-            <td><input type="text" name="Marks"</td>
+            <td>Điểm: </td>
+            <td><input type="text" name="Marks" /></td>
         </tr>
         <tr>
             <td></td>
-            <td><input type="submit" value="Dang ky"</td>
+            <td><input type="submit" value="Đăng ký" /></td>
         </tr>
     </table>
 </form>

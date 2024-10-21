@@ -39,20 +39,23 @@ namespace BaiTap2_64130758.Controllers
         {
             return PartialView();
         }
-        public ActionResult Register3(string Id,string Name, string Marks)
+        public ActionResult Register3(string Id, string Name, string Marks)
         {
             ViewBag["id"] = Id;
             ViewBag["name"] = Name;
             ViewBag.Marks = Marks;
             return PartialView(ViewBag);
         }
-        public ActionResult Index4() {
+        public ActionResult Index4()
+        {
             return PartialView();
         }
-        public ActionResult Index5(Students st) {
+        public ActionResult Index5(Students st)
+        {
             ViewBag.Id = st.Id;
             ViewBag.Name = st.Name;
             ViewBag.Marks = st.Marks;
             return PartialView(ViewBag);
         }
     }
+}
