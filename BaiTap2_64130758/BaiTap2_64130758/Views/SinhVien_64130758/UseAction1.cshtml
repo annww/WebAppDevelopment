@@ -3,11 +3,30 @@
     ViewBag.Title = "UseAction1";
 }
 
-<h2>THÔNG TIN SINH VIÊN ĐĂNG KÝ</h2>
-Ma sinh vien: @ViewBag.Id
-<br/>
-Ho va ten: @ViewBag.Name
-<br/>
-Diem: @ViewBag.Marks
+<style>
+    .headertext {
+        font-size: 24px;
+        font-weight: bold;
+        padding: 10px 0px;
+    }
 
+    .infor div {
+        margin-bottom: 10px
+    }
+</style>
+<div class="headertext">
+    THÔNG TIN SINH VIÊN
+</div>
+
+<div class="infor">
+    <div>
+        Mã sinh viên: @ViewBag.Id
+    </div>
+    <div>
+        Họ và tên: @ViewBag.Name
+    </div>
+    <div>
+        Điểm: @ViewBag.Marks
+    </div>
+</div>
 
