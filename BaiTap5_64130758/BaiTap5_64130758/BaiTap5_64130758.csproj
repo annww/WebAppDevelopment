@@ -125,6 +125,8 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Models\EmpModel.cs" />
+    <Compile Include="Models\MailInfo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -181,13 +183,15 @@
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Shared\_LayoutAdmin.cshtml" />
-    <Content Include="Views\Baitap5_64130758\Index.cshtml" />
     <Content Include="Views\Baitap5_64130758\ChangeBanner.cshtml" />
+    <Content Include="Views\Baitap5_64130758\HomePage.cshtml" />
+    <Content Include="Views\Baitap5_64130758\Register.cshtml" />
+    <Content Include="Views\Baitap5_64130758\Confirm.cshtml" />
+    <Content Include="Views\Baitap5_64130758\SendEmail.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Image\" />
-    <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\bootstrap.rtl.min.css.map" />

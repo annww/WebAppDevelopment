@@ -22,9 +22,11 @@ namespace BaiTap4_64130758.Controllers
             mail.Subject = model.Subject;
             mail.Body = model.Body;
             mail.IsBodyHtml = true;
+
             System.Net.Mail.SmtpClient smtp = new System.Net.Mail.SmtpClient("smtp.gmail.com", 587);
             smtp.Credentials = new System.Net.NetworkCredential(model.From, model.Password);
             smtp.EnableSsl = true;
+
             smtp.Send(mail);
             return RedirectToAction("Index");
         }
