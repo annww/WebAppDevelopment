@@ -11,22 +11,43 @@
     <title>@ViewBag.Title</title>
     <link href="~/Content/styleAdmin.css" rel="stylesheet" />
 </head>
+<style>
+    .banner img{
+        width: 100px;
+        margin: 5px;
+        height: 100px;
+    }
+    .banner{
+        display:flex;
+        align-items: center;
+        gap: 20px;
+        background: #00ffff;
+    }
+    .textntu{
+        font-size: 48px;
+        font-weight: bold;
+    }
+
+</style>
 <body style="margin-top:0px;">
-    <div id="banner"><img src=@ViewBag.image /></div>
+    <div class="banner">
+        <div><img src=@ViewBag.image /></div>
+        <div class="textntu"> TRƯỜNG ĐẠI HỌC NHA TRANG </div>
+    </div>
     <div id="menu">
         <div>
-            @Html.ActionLink("TRANG CHỦ", "Default", "", htmlAttributes: new{ @class = "a" }) &nbsp;|&nbsp;
-            @Html.ActionLink("ĐĂNG KÝ", "RegisterEmp", "BTTH/RegisterEmp", new { @class = "a" })&nbsp;|&nbsp;
-            @Html.ActionLink("GỬI EMAIL", "SendMail", "BTTH/SendMail", new { @class = "a" }) &nbsp;|&nbsp;
-            @Html.ActionLink("THAY ĐỔI BANNER", "ChangeBanner","BTTH/ChangeBanner", new { @class = "a" })
+            @Html.ActionLink("TRANG CHỦ", "HomePage", "BaiTap5_64130758/HomePage", htmlAttributes: new { @class = "a" }) &nbsp;|&nbsp;
+            @Html.ActionLink("ĐĂNG KÝ", "Register", "BaiTap5_64130758/Register", new { @class = "a" })&nbsp;|&nbsp;
+            @Html.ActionLink("GỬI EMAIL", "SendEMail", "BaiTap5_64130758/SendEmail", new { @class = "a" }) &nbsp;|&nbsp;
+            @Html.ActionLink("THAY ĐỔI BANNER", "ChangeBanner", "BaiTap5_64130758/ChangeBanner", new { @class = "a" })
             <hr style="margin-top:0px;" />
         </div>
     </div>
+
     <div id="content">
         @RenderBody()
     </div>
-    <div id="footer">
-        Copyright &copy; @DateTime.Now.Year
+    <div id="footer" style="ffcc66">
     </div>
 </body>
 </html>

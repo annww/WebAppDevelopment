@@ -1,0 +1,89 @@
+﻿@model QLNV_64130758.Models.NhanVien
+
+@{
+    ViewBag.Title = "Details";
+    Layout= "~/Views/Shared/_LayoutAdmin.cshtml";
+    string gtinh = "";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>NhanVien</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Họ nhân viên
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HoNV)
+        </dd>
+
+        <dt>
+            Tên nhân viên
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TenNV)
+        </dd>
+
+        <dt>
+            Giới tính
+        </dt>
+
+        <dd>
+            <label class="radio-inline">
+                @Html.RadioButtonFor(model => model.GioiTinh, true) Nam
+            </label>
+            <label class="radio-inline">
+                @Html.RadioButtonFor(model => model.GioiTinh, false) Nữ 
+            </label>
+        </dd>
+
+        <dt>
+            Ngày sinh
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NgaySinh)
+        </dd>
+
+        <dt>
+            Lương
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Luong)
+        </dd>
+
+        <dt>
+            Ảnh nhân viên
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AnhNV)
+        </dd>
+
+        <dt>
+            Địa chỉ 
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DiaChi)
+        </dd>
+
+        <dt>
+            Tên phòng ban
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PhongBan.TenPB)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Sửa", "Edit", new { id = Model.MaNV }) |
+    @Html.ActionLink("Quay về", "Index")
+</p>

@@ -1,0 +1,92 @@
+﻿@model BaiTap5_64130758.Models.EmpModel
+
+@{
+    ViewBag.Title = "Confirm";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<style>
+    .headertext {
+        font-size: 24px;
+        font-weight: bold;
+        padding: 10px 0px;
+    }
+
+    .table {
+        display: flex;
+        gap: 20px;
+    }
+
+    .img {
+        border-radius: 50%;
+        width: 200px;
+        height: 200px;
+        object-fit: conver;
+    }
+
+    .infor {
+        border: 2px solid #808080;
+        padding: 10px;
+        border-radius: 10px;
+        background-color: #f9f9f9;
+    }
+</style>
+
+<div class="headertext">
+    THÔNG TIN THÀNH VIÊN ĐĂNG KÝ
+</div>
+<form action="/" method="post">
+    <div class="table">
+        <img src="@ViewBag.Avatar" class="img" />
+        <table class="infor">
+            <tr>
+                <td>
+                    Mã nhân viên:
+                </td>
+                <td>
+                    @ViewBag.EmpID
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Họ tên:
+                </td>
+                <td>
+                    @ViewBag.Name
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Ngày sinh:
+                </td>
+                <td>
+                    @ViewBag.DOB
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Email:
+                </td>
+                <td>
+                    @ViewBag.Email
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Mật khẩu:
+                </td>
+                <td>
+                    @ViewBag.Password
+                </td>
+            <tr>
+                <td>
+                    Phòng ban:
+                </td>
+                <td>
+                    @ViewBag.Department
+                </td>
+            </tr>
+            </tr>
+        </table>
+    </div>
+</form>
