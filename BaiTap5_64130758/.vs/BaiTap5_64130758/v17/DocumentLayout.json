@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "D:\\1-Web Development\\3-GitHubUpload\\BaiTap5_64130758\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{24A19D96-E9BB-407D-AFB0-B0439C953020}|BaiTap5_64130758\\BaiTap5_64130758.csproj|d:\\1-web development\\3-githubupload\\baitap5_64130758\\baitap5_64130758\\controllers\\baitap5_64130758controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{24A19D96-E9BB-407D-AFB0-B0439C953020}|BaiTap5_64130758\\BaiTap5_64130758.csproj|D:\\1-Web Development\\3-GitHubUpload\\BaiTap5_64130758\\baitap5_64130758\\controllers\\baitap5_64130758controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24A19D96-E9BB-407D-AFB0-B0439C953020}|BaiTap5_64130758\\BaiTap5_64130758.csproj|solutionrelative:baitap5_64130758\\controllers\\baitap5_64130758controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24A19D96-E9BB-407D-AFB0-B0439C953020}|BaiTap5_64130758\\BaiTap5_64130758.csproj|D:\\1-Web Development\\3-GitHubUpload\\BaiTap5_64130758\\baitap5_64130758\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24A19D96-E9BB-407D-AFB0-B0439C953020}|BaiTap5_64130758\\BaiTap5_64130758.csproj|solutionrelative:baitap5_64130758\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{24A19D96-E9BB-407D-AFB0-B0439C953020}|BaiTap5_64130758\\BaiTap5_64130758.csproj|D:\\1-Web Development\\3-GitHubUpload\\BaiTap5_64130758\\baitap5_64130758\\models\\mailinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24A19D96-E9BB-407D-AFB0-B0439C953020}|BaiTap5_64130758\\BaiTap5_64130758.csproj|solutionrelative:baitap5_64130758\\models\\mailinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24A19D96-E9BB-407D-AFB0-B0439C953020}|BaiTap5_64130758\\BaiTap5_64130758.csproj|D:\\1-Web Development\\3-GitHubUpload\\BaiTap5_64130758\\baitap5_64130758\\views\\baitap5_64130758\\changebanner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24A19D96-E9BB-407D-AFB0-B0439C953020}|BaiTap5_64130758\\BaiTap5_64130758.csproj|solutionrelative:baitap5_64130758\\views\\baitap5_64130758\\changebanner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{24A19D96-E9BB-407D-AFB0-B0439C953020}|BaiTap5_64130758\\BaiTap5_64130758.csproj|D:\\1-Web Development\\3-GitHubUpload\\BaiTap5_64130758\\baitap5_64130758\\models\\empmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24A19D96-E9BB-407D-AFB0-B0439C953020}|BaiTap5_64130758\\BaiTap5_64130758.csproj|solutionrelative:baitap5_64130758\\models\\empmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24A19D96-E9BB-407D-AFB0-B0439C953020}|BaiTap5_64130758\\BaiTap5_64130758.csproj|D:\\1-Web Development\\3-GitHubUpload\\BaiTap5_64130758\\baitap5_64130758\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24A19D96-E9BB-407D-AFB0-B0439C953020}|BaiTap5_64130758\\BaiTap5_64130758.csproj|solutionrelative:baitap5_64130758\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24A19D96-E9BB-407D-AFB0-B0439C953020}|BaiTap5_64130758\\BaiTap5_64130758.csproj|d:\\1-web development\\3-githubupload\\baitap5_64130758\\baitap5_64130758\\views\\baitap5_64130758\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24A19D96-E9BB-407D-AFB0-B0439C953020}|BaiTap5_64130758\\BaiTap5_64130758.csproj|solutionrelative:baitap5_64130758\\views\\baitap5_64130758\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24A19D96-E9BB-407D-AFB0-B0439C953020}|BaiTap5_64130758\\BaiTap5_64130758.csproj|D:\\1-Web Development\\3-GitHubUpload\\BaiTap5_64130758\\baitap5_64130758\\views\\baitap5_64130758\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24A19D96-E9BB-407D-AFB0-B0439C953020}|BaiTap5_64130758\\BaiTap5_64130758.csproj|solutionrelative:baitap5_64130758\\views\\baitap5_64130758\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{24A19D96-E9BB-407D-AFB0-B0439C953020}|BaiTap5_64130758\\BaiTap5_64130758.csproj|D:\\1-Web Development\\3-GitHubUpload\\BaiTap5_64130758\\baitap5_64130758\\views\\baitap5_64130758\\sendemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -23,24 +35,12 @@
       "RelativeMoniker": "D:0:0:{24A19D96-E9BB-407D-AFB0-B0439C953020}|BaiTap5_64130758\\BaiTap5_64130758.csproj|solutionrelative:baitap5_64130758\\views\\baitap5_64130758\\confirm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24A19D96-E9BB-407D-AFB0-B0439C953020}|BaiTap5_64130758\\BaiTap5_64130758.csproj|D:\\1-Web Development\\3-GitHubUpload\\BaiTap5_64130758\\baitap5_64130758\\views\\baitap5_64130758\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24A19D96-E9BB-407D-AFB0-B0439C953020}|BaiTap5_64130758\\BaiTap5_64130758.csproj|solutionrelative:baitap5_64130758\\views\\baitap5_64130758\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{24A19D96-E9BB-407D-AFB0-B0439C953020}|BaiTap5_64130758\\BaiTap5_64130758.csproj|D:\\1-Web Development\\3-GitHubUpload\\BaiTap5_64130758\\baitap5_64130758\\views\\baitap5_64130758\\changebanner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24A19D96-E9BB-407D-AFB0-B0439C953020}|BaiTap5_64130758\\BaiTap5_64130758.csproj|solutionrelative:baitap5_64130758\\views\\baitap5_64130758\\changebanner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24A19D96-E9BB-407D-AFB0-B0439C953020}|BaiTap5_64130758\\BaiTap5_64130758.csproj|D:\\1-Web Development\\3-GitHubUpload\\BaiTap5_64130758\\baitap5_64130758\\views\\baitap5_64130758\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24A19D96-E9BB-407D-AFB0-B0439C953020}|BaiTap5_64130758\\BaiTap5_64130758.csproj|solutionrelative:baitap5_64130758\\views\\baitap5_64130758\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24A19D96-E9BB-407D-AFB0-B0439C953020}|BaiTap5_64130758\\BaiTap5_64130758.csproj|D:\\1-Web Development\\3-GitHubUpload\\BaiTap5_64130758\\baitap5_64130758\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24A19D96-E9BB-407D-AFB0-B0439C953020}|BaiTap5_64130758\\BaiTap5_64130758.csproj|solutionrelative:baitap5_64130758\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24A19D96-E9BB-407D-AFB0-B0439C953020}|BaiTap5_64130758\\BaiTap5_64130758.csproj|D:\\1-Web Development\\3-GitHubUpload\\BaiTap5_64130758\\baitap5_64130758\\models\\empmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24A19D96-E9BB-407D-AFB0-B0439C953020}|BaiTap5_64130758\\BaiTap5_64130758.csproj|solutionrelative:baitap5_64130758\\models\\empmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24A19D96-E9BB-407D-AFB0-B0439C953020}|BaiTap5_64130758\\BaiTap5_64130758.csproj|D:\\1-Web Development\\3-GitHubUpload\\BaiTap5_64130758\\baitap5_64130758\\models\\mailinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24A19D96-E9BB-407D-AFB0-B0439C953020}|BaiTap5_64130758\\BaiTap5_64130758.csproj|solutionrelative:baitap5_64130758\\models\\mailinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24A19D96-E9BB-407D-AFB0-B0439C953020}|BaiTap5_64130758\\BaiTap5_64130758.csproj|D:\\1-Web Development\\3-GitHubUpload\\BaiTap5_64130758\\baitap5_64130758\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24A19D96-E9BB-407D-AFB0-B0439C953020}|BaiTap5_64130758\\BaiTap5_64130758.csproj|solutionrelative:baitap5_64130758\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{24A19D96-E9BB-407D-AFB0-B0439C953020}|BaiTap5_64130758\\BaiTap5_64130758.csproj|D:\\1-Web Development\\3-GitHubUpload\\BaiTap5_64130758\\baitap5_64130758\\content\\styleadmin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -70,19 +70,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SendEmail.cshtml",
-              "DocumentMoniker": "D:\\1-Web Development\\3-GitHubUpload\\BaiTap5_64130758\\BaiTap5_64130758\\Views\\Baitap5_64130758\\SendEmail.cshtml",
-              "RelativeDocumentMoniker": "BaiTap5_64130758\\Views\\Baitap5_64130758\\SendEmail.cshtml",
-              "ToolTip": "D:\\1-Web Development\\3-GitHubUpload\\BaiTap5_64130758\\BaiTap5_64130758\\Views\\Baitap5_64130758\\SendEmail.cshtml",
-              "RelativeToolTip": "BaiTap5_64130758\\Views\\Baitap5_64130758\\SendEmail.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC4AAAAaAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\1-Web Development\\3-GitHubUpload\\BaiTap5_64130758\\BaiTap5_64130758\\Views\\Baitap5_64130758\\Register.cshtml",
+              "RelativeDocumentMoniker": "BaiTap5_64130758\\Views\\Baitap5_64130758\\Register.cshtml",
+              "ToolTip": "D:\\1-Web Development\\3-GitHubUpload\\BaiTap5_64130758\\BaiTap5_64130758\\Views\\Baitap5_64130758\\Register.cshtml",
+              "RelativeToolTip": "BaiTap5_64130758\\Views\\Baitap5_64130758\\Register.cshtml",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAYwGYAAABlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-19T04:43:15.458Z",
+              "WhenOpened": "2024-10-18T12:56:04.644Z",
               "EditorCaption": ""
             },
             {
@@ -93,36 +93,22 @@
               "RelativeDocumentMoniker": "BaiTap5_64130758\\Views\\Baitap5_64130758\\HomePage.cshtml",
               "ToolTip": "D:\\1-Web Development\\3-GitHubUpload\\BaiTap5_64130758\\BaiTap5_64130758\\Views\\Baitap5_64130758\\HomePage.cshtml",
               "RelativeToolTip": "BaiTap5_64130758\\Views\\Baitap5_64130758\\HomePage.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-09T18:22:16.513Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Confirm.cshtml",
-              "DocumentMoniker": "D:\\1-Web Development\\3-GitHubUpload\\BaiTap5_64130758\\BaiTap5_64130758\\Views\\Baitap5_64130758\\Confirm.cshtml",
-              "RelativeDocumentMoniker": "BaiTap5_64130758\\Views\\Baitap5_64130758\\Confirm.cshtml",
-              "ToolTip": "D:\\1-Web Development\\3-GitHubUpload\\BaiTap5_64130758\\BaiTap5_64130758\\Views\\Baitap5_64130758\\Confirm.cshtml",
-              "RelativeToolTip": "BaiTap5_64130758\\Views\\Baitap5_64130758\\Confirm.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-18T13:16:06.432Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "ChangeBanner.cshtml",
               "DocumentMoniker": "D:\\1-Web Development\\3-GitHubUpload\\BaiTap5_64130758\\BaiTap5_64130758\\Views\\Baitap5_64130758\\ChangeBanner.cshtml",
               "RelativeDocumentMoniker": "BaiTap5_64130758\\Views\\Baitap5_64130758\\ChangeBanner.cshtml",
               "ToolTip": "D:\\1-Web Development\\3-GitHubUpload\\BaiTap5_64130758\\BaiTap5_64130758\\Views\\Baitap5_64130758\\ChangeBanner.cshtml",
               "RelativeToolTip": "BaiTap5_64130758\\Views\\Baitap5_64130758\\ChangeBanner.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-30T07:56:45.227Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-30T07:56:45.227Z"
             },
             {
               "$type": "Document",
@@ -132,39 +118,27 @@
               "RelativeDocumentMoniker": "BaiTap5_64130758\\Controllers\\Baitap5_64130758Controller.cs",
               "ToolTip": "D:\\1-Web Development\\3-GitHubUpload\\BaiTap5_64130758\\BaiTap5_64130758\\Controllers\\Baitap5_64130758Controller.cs",
               "RelativeToolTip": "BaiTap5_64130758\\Controllers\\Baitap5_64130758Controller.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwEAAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-30T07:54:55.563Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MailInfo.cs",
-              "DocumentMoniker": "D:\\1-Web Development\\3-GitHubUpload\\BaiTap5_64130758\\BaiTap5_64130758\\Models\\MailInfo.cs",
-              "RelativeDocumentMoniker": "BaiTap5_64130758\\Models\\MailInfo.cs",
-              "ToolTip": "D:\\1-Web Development\\3-GitHubUpload\\BaiTap5_64130758\\BaiTap5_64130758\\Models\\MailInfo.cs",
-              "RelativeToolTip": "BaiTap5_64130758\\Models\\MailInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "EmpModel.cs",
+              "DocumentMoniker": "D:\\1-Web Development\\3-GitHubUpload\\BaiTap5_64130758\\BaiTap5_64130758\\Models\\EmpModel.cs",
+              "RelativeDocumentMoniker": "BaiTap5_64130758\\Models\\EmpModel.cs",
+              "ToolTip": "D:\\1-Web Development\\3-GitHubUpload\\BaiTap5_64130758\\BaiTap5_64130758\\Models\\EmpModel.cs",
+              "RelativeToolTip": "BaiTap5_64130758\\Models\\EmpModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T13:31:07.536Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_LayoutAdmin.cshtml",
-              "DocumentMoniker": "D:\\1-Web Development\\3-GitHubUpload\\BaiTap5_64130758\\BaiTap5_64130758\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "RelativeDocumentMoniker": "BaiTap5_64130758\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "ToolTip": "D:\\1-Web Development\\3-GitHubUpload\\BaiTap5_64130758\\BaiTap5_64130758\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "RelativeToolTip": "BaiTap5_64130758\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACoAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-30T07:16:34.305Z",
+              "WhenOpened": "2024-10-18T12:12:17.628Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\1-Web Development\\3-GitHubUpload\\BaiTap5_64130758\\BaiTap5_64130758\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "BaiTap5_64130758\\Controllers\\HomeController.cs",
@@ -172,31 +146,57 @@
               "RelativeToolTip": "BaiTap5_64130758\\Controllers\\HomeController.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T07:56:36.751Z"
+              "WhenOpened": "2024-09-30T07:56:36.751Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "EmpModel.cs",
-              "DocumentMoniker": "D:\\1-Web Development\\3-GitHubUpload\\BaiTap5_64130758\\BaiTap5_64130758\\Models\\EmpModel.cs",
-              "RelativeDocumentMoniker": "BaiTap5_64130758\\Models\\EmpModel.cs",
-              "ToolTip": "D:\\1-Web Development\\3-GitHubUpload\\BaiTap5_64130758\\BaiTap5_64130758\\Models\\EmpModel.cs",
-              "RelativeToolTip": "BaiTap5_64130758\\Models\\EmpModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Confirm.cshtml",
+              "DocumentMoniker": "D:\\1-Web Development\\3-GitHubUpload\\BaiTap5_64130758\\BaiTap5_64130758\\Views\\Baitap5_64130758\\Confirm.cshtml",
+              "RelativeDocumentMoniker": "BaiTap5_64130758\\Views\\Baitap5_64130758\\Confirm.cshtml",
+              "ToolTip": "D:\\1-Web Development\\3-GitHubUpload\\BaiTap5_64130758\\BaiTap5_64130758\\Views\\Baitap5_64130758\\Confirm.cshtml",
+              "RelativeToolTip": "BaiTap5_64130758\\Views\\Baitap5_64130758\\Confirm.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T13:16:06.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MailInfo.cs",
+              "DocumentMoniker": "D:\\1-Web Development\\3-GitHubUpload\\BaiTap5_64130758\\BaiTap5_64130758\\Models\\MailInfo.cs",
+              "RelativeDocumentMoniker": "BaiTap5_64130758\\Models\\MailInfo.cs",
+              "ToolTip": "D:\\1-Web Development\\3-GitHubUpload\\BaiTap5_64130758\\BaiTap5_64130758\\Models\\MailInfo.cs",
+              "RelativeToolTip": "BaiTap5_64130758\\Models\\MailInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T12:12:17.628Z"
+              "WhenOpened": "2024-10-18T13:31:07.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "D:\\1-Web Development\\3-GitHubUpload\\BaiTap5_64130758\\BaiTap5_64130758\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "BaiTap5_64130758\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "D:\\1-Web Development\\3-GitHubUpload\\BaiTap5_64130758\\BaiTap5_64130758\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "BaiTap5_64130758\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T07:16:34.305Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "D:\\1-Web Development\\3-GitHubUpload\\BaiTap5_64130758\\BaiTap5_64130758\\Views\\Baitap5_64130758\\Register.cshtml",
-              "RelativeDocumentMoniker": "BaiTap5_64130758\\Views\\Baitap5_64130758\\Register.cshtml",
-              "ToolTip": "D:\\1-Web Development\\3-GitHubUpload\\BaiTap5_64130758\\BaiTap5_64130758\\Views\\Baitap5_64130758\\Register.cshtml",
-              "RelativeToolTip": "BaiTap5_64130758\\Views\\Baitap5_64130758\\Register.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAIAAAAAAAAAA==",
+              "Title": "SendEmail.cshtml",
+              "DocumentMoniker": "D:\\1-Web Development\\3-GitHubUpload\\BaiTap5_64130758\\BaiTap5_64130758\\Views\\Baitap5_64130758\\SendEmail.cshtml",
+              "RelativeDocumentMoniker": "BaiTap5_64130758\\Views\\Baitap5_64130758\\SendEmail.cshtml",
+              "ToolTip": "D:\\1-Web Development\\3-GitHubUpload\\BaiTap5_64130758\\BaiTap5_64130758\\Views\\Baitap5_64130758\\SendEmail.cshtml",
+              "RelativeToolTip": "BaiTap5_64130758\\Views\\Baitap5_64130758\\SendEmail.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC4AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-18T12:56:04.644Z"
+              "WhenOpened": "2024-10-19T04:43:15.458Z"
             },
             {
               "$type": "Document",
