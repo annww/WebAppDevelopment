@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/Content/css")
+    <link href="~/Content/styleAdmin.css" rel="stylesheet" />
+</head>
+<body style="margin-top:0px;">
+    <div id="banner" style="top:0px;">HỆ THỐNG QUẢN LÝ SÁCH</div>
+    <div id="menu" style="margin-top:10px;">
+        <div id="menu">
+            <div>
+                @Html.ActionLink("Danh sách", "Index", "Sachs_64130758/Index", htmlAttributes: new { @class = "a" }) &nbsp;|&nbsp;
+                @Html.ActionLink("Tìm kiếm", "TimKiem_64130758", "Sachs_64130758/TimKiem_64130758", new { @class = "a" })&nbsp;|&nbsp;
+                @Html.ActionLink("Thêm mới", "Create", "Sachs_64130758/Create", new { @class = "a" }) &nbsp;|&nbsp;
+                @Html.ActionLink("Giới thiệu", "GioiThieu_64130758", "Sachs_64130758/GioiThieu_641307578", new { @class = "a" })
+                <hr style="margin-top:0px;" />
+            </div>
+        </div>
+        <div>
+            <p align="right">  @ViewBag.NguoiDung</p>
+        </div>
+    </div>
+    <div id="content">
+        @RenderBody()
+    </div>
+    <div id="footer">
+
+    </div>
+</body>
+</html>

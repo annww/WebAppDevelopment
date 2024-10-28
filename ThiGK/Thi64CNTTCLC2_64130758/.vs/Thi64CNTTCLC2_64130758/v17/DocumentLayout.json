@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1-Web Development\\3-GitHubUpload\\ThiGK\\Thi64CNTTCLC2_64130758\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1672A62A-820F-4B0D-AD5C-2270FFDAB12C}|Thi64CNTTCLC2_64130758\\Thi64CNTTCLC2_64130758.csproj|D:\\1-Web Development\\3-GitHubUpload\\ThiGK\\Thi64CNTTCLC2_64130758\\thi64cnttclc2_64130758\\controllers\\sachs_64130758controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1672A62A-820F-4B0D-AD5C-2270FFDAB12C}|Thi64CNTTCLC2_64130758\\Thi64CNTTCLC2_64130758.csproj|solutionrelative:thi64cnttclc2_64130758\\controllers\\sachs_64130758controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1672A62A-820F-4B0D-AD5C-2270FFDAB12C}|Thi64CNTTCLC2_64130758\\Thi64CNTTCLC2_64130758.csproj|D:\\1-Web Development\\3-GitHubUpload\\ThiGK\\Thi64CNTTCLC2_64130758\\thi64cnttclc2_64130758\\views\\sachs_64130758\\gioithieu_64130758.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1672A62A-820F-4B0D-AD5C-2270FFDAB12C}|Thi64CNTTCLC2_64130758\\Thi64CNTTCLC2_64130758.csproj|solutionrelative:thi64cnttclc2_64130758\\views\\sachs_64130758\\gioithieu_64130758.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1672A62A-820F-4B0D-AD5C-2270FFDAB12C}|Thi64CNTTCLC2_64130758\\Thi64CNTTCLC2_64130758.csproj|D:\\1-Web Development\\3-GitHubUpload\\ThiGK\\Thi64CNTTCLC2_64130758\\thi64cnttclc2_64130758\\views\\sachs_64130758\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1672A62A-820F-4B0D-AD5C-2270FFDAB12C}|Thi64CNTTCLC2_64130758\\Thi64CNTTCLC2_64130758.csproj|solutionrelative:thi64cnttclc2_64130758\\views\\sachs_64130758\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1672A62A-820F-4B0D-AD5C-2270FFDAB12C}|Thi64CNTTCLC2_64130758\\Thi64CNTTCLC2_64130758.csproj|d:\\1-web development\\3-githubupload\\thigk\\thi64cnttclc2_64130758\\thi64cnttclc2_64130758\\views\\sachs_64130758\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1672A62A-820F-4B0D-AD5C-2270FFDAB12C}|Thi64CNTTCLC2_64130758\\Thi64CNTTCLC2_64130758.csproj|solutionrelative:thi64cnttclc2_64130758\\views\\sachs_64130758\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1672A62A-820F-4B0D-AD5C-2270FFDAB12C}|Thi64CNTTCLC2_64130758\\Thi64CNTTCLC2_64130758.csproj|D:\\1-Web Development\\3-GitHubUpload\\ThiGK\\Thi64CNTTCLC2_64130758\\thi64cnttclc2_64130758\\views\\sachs_64130758\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1672A62A-820F-4B0D-AD5C-2270FFDAB12C}|Thi64CNTTCLC2_64130758\\Thi64CNTTCLC2_64130758.csproj|solutionrelative:thi64cnttclc2_64130758\\views\\sachs_64130758\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1672A62A-820F-4B0D-AD5C-2270FFDAB12C}|Thi64CNTTCLC2_64130758\\Thi64CNTTCLC2_64130758.csproj|d:\\1-web development\\3-githubupload\\thigk\\thi64cnttclc2_64130758\\thi64cnttclc2_64130758\\views\\sachs_64130758\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1672A62A-820F-4B0D-AD5C-2270FFDAB12C}|Thi64CNTTCLC2_64130758\\Thi64CNTTCLC2_64130758.csproj|solutionrelative:thi64cnttclc2_64130758\\views\\sachs_64130758\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1672A62A-820F-4B0D-AD5C-2270FFDAB12C}|Thi64CNTTCLC2_64130758\\Thi64CNTTCLC2_64130758.csproj|d:\\1-web development\\3-githubupload\\thigk\\thi64cnttclc2_64130758\\thi64cnttclc2_64130758\\views\\sachs_64130758\\timkiem_64130758.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1672A62A-820F-4B0D-AD5C-2270FFDAB12C}|Thi64CNTTCLC2_64130758\\Thi64CNTTCLC2_64130758.csproj|solutionrelative:thi64cnttclc2_64130758\\views\\sachs_64130758\\timkiem_64130758.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1672A62A-820F-4B0D-AD5C-2270FFDAB12C}|Thi64CNTTCLC2_64130758\\Thi64CNTTCLC2_64130758.csproj|D:\\1-Web Development\\3-GitHubUpload\\ThiGK\\Thi64CNTTCLC2_64130758\\thi64cnttclc2_64130758\\models\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1672A62A-820F-4B0D-AD5C-2270FFDAB12C}|Thi64CNTTCLC2_64130758\\Thi64CNTTCLC2_64130758.csproj|solutionrelative:thi64cnttclc2_64130758\\models\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1672A62A-820F-4B0D-AD5C-2270FFDAB12C}|Thi64CNTTCLC2_64130758\\Thi64CNTTCLC2_64130758.csproj|D:\\1-Web Development\\3-GitHubUpload\\ThiGK\\Thi64CNTTCLC2_64130758\\thi64cnttclc2_64130758\\views\\sachs_64130758\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1672A62A-820F-4B0D-AD5C-2270FFDAB12C}|Thi64CNTTCLC2_64130758\\Thi64CNTTCLC2_64130758.csproj|solutionrelative:thi64cnttclc2_64130758\\views\\sachs_64130758\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1672A62A-820F-4B0D-AD5C-2270FFDAB12C}|Thi64CNTTCLC2_64130758\\Thi64CNTTCLC2_64130758.csproj|D:\\1-Web Development\\3-GitHubUpload\\ThiGK\\Thi64CNTTCLC2_64130758\\thi64cnttclc2_64130758\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1672A62A-820F-4B0D-AD5C-2270FFDAB12C}|Thi64CNTTCLC2_64130758\\Thi64CNTTCLC2_64130758.csproj|solutionrelative:thi64cnttclc2_64130758\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1672A62A-820F-4B0D-AD5C-2270FFDAB12C}|Thi64CNTTCLC2_64130758\\Thi64CNTTCLC2_64130758.csproj|D:\\1-Web Development\\3-GitHubUpload\\ThiGK\\Thi64CNTTCLC2_64130758\\thi64cnttclc2_64130758\\controllers\\home64130758controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1672A62A-820F-4B0D-AD5C-2270FFDAB12C}|Thi64CNTTCLC2_64130758\\Thi64CNTTCLC2_64130758.csproj|solutionrelative:thi64cnttclc2_64130758\\controllers\\home64130758controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1672A62A-820F-4B0D-AD5C-2270FFDAB12C}|Thi64CNTTCLC2_64130758\\Thi64CNTTCLC2_64130758.csproj|D:\\1-Web Development\\3-GitHubUpload\\ThiGK\\Thi64CNTTCLC2_64130758\\thi64cnttclc2_64130758\\content\\styleadmin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1672A62A-820F-4B0D-AD5C-2270FFDAB12C}|Thi64CNTTCLC2_64130758\\Thi64CNTTCLC2_64130758.csproj|solutionrelative:thi64cnttclc2_64130758\\content\\styleadmin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1672A62A-820F-4B0D-AD5C-2270FFDAB12C}|Thi64CNTTCLC2_64130758\\Thi64CNTTCLC2_64130758.csproj|D:\\1-Web Development\\3-GitHubUpload\\ThiGK\\Thi64CNTTCLC2_64130758\\thi64cnttclc2_64130758\\models\\modelqls_64130758.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{1672A62A-820F-4B0D-AD5C-2270FFDAB12C}|Thi64CNTTCLC2_64130758\\Thi64CNTTCLC2_64130758.csproj|solutionrelative:thi64cnttclc2_64130758\\models\\modelqls_64130758.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\1-Web Development\\3-GitHubUpload\\ThiGK\\Thi64CNTTCLC2_64130758\\Thi64CNTTCLC2_64130758\\Views\\Sachs_64130758\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Thi64CNTTCLC2_64130758\\Views\\Sachs_64130758\\Edit.cshtml",
+              "ToolTip": "D:\\1-Web Development\\3-GitHubUpload\\ThiGK\\Thi64CNTTCLC2_64130758\\Thi64CNTTCLC2_64130758\\Views\\Sachs_64130758\\Edit.cshtml",
+              "RelativeToolTip": "Thi64CNTTCLC2_64130758\\Views\\Sachs_64130758\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T08:15:47.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\1-Web Development\\3-GitHubUpload\\ThiGK\\Thi64CNTTCLC2_64130758\\Thi64CNTTCLC2_64130758\\Views\\Sachs_64130758\\Details.cshtml",
+              "RelativeDocumentMoniker": "Thi64CNTTCLC2_64130758\\Views\\Sachs_64130758\\Details.cshtml",
+              "ToolTip": "D:\\1-Web Development\\3-GitHubUpload\\ThiGK\\Thi64CNTTCLC2_64130758\\Thi64CNTTCLC2_64130758\\Views\\Sachs_64130758\\Details.cshtml",
+              "RelativeToolTip": "Thi64CNTTCLC2_64130758\\Views\\Sachs_64130758\\Details.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T08:11:48.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TimKiem_64130758.cshtml",
+              "DocumentMoniker": "D:\\1-Web Development\\3-GitHubUpload\\ThiGK\\Thi64CNTTCLC2_64130758\\Thi64CNTTCLC2_64130758\\Views\\Sachs_64130758\\TimKiem_64130758.cshtml",
+              "RelativeDocumentMoniker": "Thi64CNTTCLC2_64130758\\Views\\Sachs_64130758\\TimKiem_64130758.cshtml",
+              "ToolTip": "D:\\1-Web Development\\3-GitHubUpload\\ThiGK\\Thi64CNTTCLC2_64130758\\Thi64CNTTCLC2_64130758\\Views\\Sachs_64130758\\TimKiem_64130758.cshtml",
+              "RelativeToolTip": "Thi64CNTTCLC2_64130758\\Views\\Sachs_64130758\\TimKiem_64130758.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T07:38:34.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\1-Web Development\\3-GitHubUpload\\ThiGK\\Thi64CNTTCLC2_64130758\\Thi64CNTTCLC2_64130758\\Views\\Sachs_64130758\\Index.cshtml",
+              "RelativeDocumentMoniker": "Thi64CNTTCLC2_64130758\\Views\\Sachs_64130758\\Index.cshtml",
+              "ToolTip": "D:\\1-Web Development\\3-GitHubUpload\\ThiGK\\Thi64CNTTCLC2_64130758\\Thi64CNTTCLC2_64130758\\Views\\Sachs_64130758\\Index.cshtml",
+              "RelativeToolTip": "Thi64CNTTCLC2_64130758\\Views\\Sachs_64130758\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T07:24:53.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GioiThieu_64130758.cshtml",
+              "DocumentMoniker": "D:\\1-Web Development\\3-GitHubUpload\\ThiGK\\Thi64CNTTCLC2_64130758\\Thi64CNTTCLC2_64130758\\Views\\Sachs_64130758\\GioiThieu_64130758.cshtml",
+              "RelativeDocumentMoniker": "Thi64CNTTCLC2_64130758\\Views\\Sachs_64130758\\GioiThieu_64130758.cshtml",
+              "ToolTip": "D:\\1-Web Development\\3-GitHubUpload\\ThiGK\\Thi64CNTTCLC2_64130758\\Thi64CNTTCLC2_64130758\\Views\\Sachs_64130758\\GioiThieu_64130758.cshtml",
+              "RelativeToolTip": "Thi64CNTTCLC2_64130758\\Views\\Sachs_64130758\\GioiThieu_64130758.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T06:55:12.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\1-Web Development\\3-GitHubUpload\\ThiGK\\Thi64CNTTCLC2_64130758\\Thi64CNTTCLC2_64130758\\Views\\Sachs_64130758\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Thi64CNTTCLC2_64130758\\Views\\Sachs_64130758\\Delete.cshtml",
+              "ToolTip": "D:\\1-Web Development\\3-GitHubUpload\\ThiGK\\Thi64CNTTCLC2_64130758\\Thi64CNTTCLC2_64130758\\Views\\Sachs_64130758\\Delete.cshtml",
+              "RelativeToolTip": "Thi64CNTTCLC2_64130758\\Views\\Sachs_64130758\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T06:54:15.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\1-Web Development\\3-GitHubUpload\\ThiGK\\Thi64CNTTCLC2_64130758\\Thi64CNTTCLC2_64130758\\Views\\Sachs_64130758\\Create.cshtml",
+              "RelativeDocumentMoniker": "Thi64CNTTCLC2_64130758\\Views\\Sachs_64130758\\Create.cshtml",
+              "ToolTip": "D:\\1-Web Development\\3-GitHubUpload\\ThiGK\\Thi64CNTTCLC2_64130758\\Thi64CNTTCLC2_64130758\\Views\\Sachs_64130758\\Create.cshtml",
+              "RelativeToolTip": "Thi64CNTTCLC2_64130758\\Views\\Sachs_64130758\\Create.cshtml",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAABQAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T06:49:54.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sachs_64130758Controller.cs",
+              "DocumentMoniker": "D:\\1-Web Development\\3-GitHubUpload\\ThiGK\\Thi64CNTTCLC2_64130758\\Thi64CNTTCLC2_64130758\\Controllers\\Sachs_64130758Controller.cs",
+              "RelativeDocumentMoniker": "Thi64CNTTCLC2_64130758\\Controllers\\Sachs_64130758Controller.cs",
+              "ToolTip": "D:\\1-Web Development\\3-GitHubUpload\\ThiGK\\Thi64CNTTCLC2_64130758\\Thi64CNTTCLC2_64130758\\Controllers\\Sachs_64130758Controller.cs",
+              "RelativeToolTip": "Thi64CNTTCLC2_64130758\\Controllers\\Sachs_64130758Controller.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAswEoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:49:44.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Sach.cs",
+              "DocumentMoniker": "D:\\1-Web Development\\3-GitHubUpload\\ThiGK\\Thi64CNTTCLC2_64130758\\Thi64CNTTCLC2_64130758\\Models\\Sach.cs",
+              "RelativeDocumentMoniker": "Thi64CNTTCLC2_64130758\\Models\\Sach.cs",
+              "ToolTip": "D:\\1-Web Development\\3-GitHubUpload\\ThiGK\\Thi64CNTTCLC2_64130758\\Thi64CNTTCLC2_64130758\\Models\\Sach.cs",
+              "RelativeToolTip": "Thi64CNTTCLC2_64130758\\Models\\Sach.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:03:49.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Home64130758Controller.cs",
+              "DocumentMoniker": "D:\\1-Web Development\\3-GitHubUpload\\ThiGK\\Thi64CNTTCLC2_64130758\\Thi64CNTTCLC2_64130758\\Controllers\\Home64130758Controller.cs",
+              "RelativeDocumentMoniker": "Thi64CNTTCLC2_64130758\\Controllers\\Home64130758Controller.cs",
+              "ToolTip": "D:\\1-Web Development\\3-GitHubUpload\\ThiGK\\Thi64CNTTCLC2_64130758\\Thi64CNTTCLC2_64130758\\Controllers\\Home64130758Controller.cs",
+              "RelativeToolTip": "Thi64CNTTCLC2_64130758\\Controllers\\Home64130758Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:48:52.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "styleAdmin.css",
+              "DocumentMoniker": "D:\\1-Web Development\\3-GitHubUpload\\ThiGK\\Thi64CNTTCLC2_64130758\\Thi64CNTTCLC2_64130758\\Content\\styleAdmin.css",
+              "RelativeDocumentMoniker": "Thi64CNTTCLC2_64130758\\Content\\styleAdmin.css",
+              "ToolTip": "D:\\1-Web Development\\3-GitHubUpload\\ThiGK\\Thi64CNTTCLC2_64130758\\Thi64CNTTCLC2_64130758\\Content\\styleAdmin.css",
+              "RelativeToolTip": "Thi64CNTTCLC2_64130758\\Content\\styleAdmin.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-28T06:47:32.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "D:\\1-Web Development\\3-GitHubUpload\\ThiGK\\Thi64CNTTCLC2_64130758\\Thi64CNTTCLC2_64130758\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "Thi64CNTTCLC2_64130758\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "D:\\1-Web Development\\3-GitHubUpload\\ThiGK\\Thi64CNTTCLC2_64130758\\Thi64CNTTCLC2_64130758\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "Thi64CNTTCLC2_64130758\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T06:46:58.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ModelQLS_64130758.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\1-Web Development\\3-GitHubUpload\\ThiGK\\Thi64CNTTCLC2_64130758\\Thi64CNTTCLC2_64130758\\Models\\ModelQLS_64130758.edmx",
+              "RelativeDocumentMoniker": "Thi64CNTTCLC2_64130758\\Models\\ModelQLS_64130758.edmx",
+              "ToolTip": "D:\\1-Web Development\\3-GitHubUpload\\ThiGK\\Thi64CNTTCLC2_64130758\\Thi64CNTTCLC2_64130758\\Models\\ModelQLS_64130758.edmx [Diagram1]",
+              "RelativeToolTip": "Thi64CNTTCLC2_64130758\\Models\\ModelQLS_64130758.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-10-28T06:46:26.976Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="ModelQLS_64130758.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="LoaiSach">
+          <Key>
+            <PropertyRef Name="MaLS" />
+          </Key>
+          <Property Name="MaLS" Type="varchar" MaxLength="10" Nullable="false" />
+          <Property Name="TenLS" Type="nvarchar" MaxLength="50" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Sach">
+          <Key>
+            <PropertyRef Name="MaSach" />
+          </Key>
+          <Property Name="MaSach" Type="varchar" MaxLength="10" Nullable="false" />
+          <Property Name="TenSach" Type="nvarchar" MaxLength="50" />
+          <Property Name="AnhDaiDien" Type="varchar" MaxLength="50" />
+          <Property Name="MoTa" Type="nvarchar" MaxLength="50" />
+          <Property Name="DonGia" Type="int" />
+          <Property Name="NgonNgu" Type="bit" />
+          <Property Name="TacGia" Type="nvarchar" MaxLength="50" />
+          <Property Name="MaLS" Type="varchar" MaxLength="10" Nullable="false" />
+        </EntityType>
+        <Association Name="FK__Sach__MaLS__3C69FB99">
+          <End Role="LoaiSach" Type="Self.LoaiSach" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="Sach" Type="Self.Sach" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="LoaiSach">
+              <PropertyRef Name="MaLS" />
+            </Principal>
+            <Dependent Role="Sach">
+              <PropertyRef Name="MaLS" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Function Name="Sach_TimKiem" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="TenSach" Type="nvarchar" Mode="In" />
+          <Parameter Name="TacGia" Type="varchar" Mode="In" />
+        </Function>
+        <EntityContainer Name="ModelQLS_64130758StoreContainer">
+          <EntitySet Name="LoaiSach" EntityType="Self.LoaiSach" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Sach" EntityType="Self.Sach" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK__Sach__MaLS__3C69FB99" Association="Self.FK__Sach__MaLS__3C69FB99">
+            <End Role="LoaiSach" EntitySet="LoaiSach" />
+            <End Role="Sach" EntitySet="Sach" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="ModelQLS_64130758" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="LoaiSach">
+          <Key>
+            <PropertyRef Name="MaLS" />
+          </Key>
+          <Property Name="MaLS" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="TenLS" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <NavigationProperty Name="Saches" Relationship="Self.FK__Sach__MaLS__3C69FB99" FromRole="LoaiSach" ToRole="Sach" />
+        </EntityType>
+        <EntityType Name="Sach">
+          <Key>
+            <PropertyRef Name="MaSach" />
+          </Key>
+          <Property Name="MaSach" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="TenSach" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="AnhDaiDien" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="MoTa" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="DonGia" Type="Int32" />
+          <Property Name="NgonNgu" Type="Boolean" />
+          <Property Name="TacGia" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="MaLS" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+          <NavigationProperty Name="LoaiSach" Relationship="Self.FK__Sach__MaLS__3C69FB99" FromRole="Sach" ToRole="LoaiSach" />
+        </EntityType>
+        <Association Name="FK__Sach__MaLS__3C69FB99">
+          <End Role="LoaiSach" Type="Self.LoaiSach" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="Sach" Type="Self.Sach" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="LoaiSach">
+              <PropertyRef Name="MaLS" />
+            </Principal>
+            <Dependent Role="Sach">
+              <PropertyRef Name="MaLS" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="Thi64CNTTCLC2_64130758Entities1" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="LoaiSaches" EntityType="Self.LoaiSach" />
+          <EntitySet Name="Saches" EntityType="Self.Sach" />
+          <AssociationSet Name="FK__Sach__MaLS__3C69FB99" Association="Self.FK__Sach__MaLS__3C69FB99">
+            <End Role="LoaiSach" EntitySet="LoaiSaches" />
+            <End Role="Sach" EntitySet="Saches" />
+          </AssociationSet>
+          <FunctionImport Name="Sach_TimKiem">
+            <Parameter Name="TenSach" Mode="In" Type="String" />
+            <Parameter Name="TacGia" Mode="In" Type="String" />
+          </FunctionImport>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="ModelQLS_64130758StoreContainer" CdmEntityContainer="Thi64CNTTCLC2_64130758Entities1">
+          <EntitySetMapping Name="LoaiSaches">
+            <EntityTypeMapping TypeName="ModelQLS_64130758.LoaiSach">
+              <MappingFragment StoreEntitySet="LoaiSach">
+                <ScalarProperty Name="MaLS" ColumnName="MaLS" />
+                <ScalarProperty Name="TenLS" ColumnName="TenLS" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Saches">
+            <EntityTypeMapping TypeName="ModelQLS_64130758.Sach">
+              <MappingFragment StoreEntitySet="Sach">
+                <ScalarProperty Name="MaSach" ColumnName="MaSach" />
+                <ScalarProperty Name="TenSach" ColumnName="TenSach" />
+                <ScalarProperty Name="AnhDaiDien" ColumnName="AnhDaiDien" />
+                <ScalarProperty Name="MoTa" ColumnName="MoTa" />
+                <ScalarProperty Name="DonGia" ColumnName="DonGia" />
+                <ScalarProperty Name="NgonNgu" ColumnName="NgonNgu" />
+                <ScalarProperty Name="TacGia" ColumnName="TacGia" />
+                <ScalarProperty Name="MaLS" ColumnName="MaLS" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <FunctionImportMapping FunctionImportName="Sach_TimKiem" FunctionName="ModelQLS_64130758.Store.Sach_TimKiem" />
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

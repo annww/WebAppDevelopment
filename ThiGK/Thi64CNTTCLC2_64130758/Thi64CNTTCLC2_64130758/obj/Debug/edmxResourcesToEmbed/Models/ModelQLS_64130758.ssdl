@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ModelQLS_64130758.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="LoaiSach">
+    <Key>
+      <PropertyRef Name="MaLS" />
+    </Key>
+    <Property Name="MaLS" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="TenLS" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Sach">
+    <Key>
+      <PropertyRef Name="MaSach" />
+    </Key>
+    <Property Name="MaSach" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="TenSach" Type="nvarchar" MaxLength="50" />
+    <Property Name="AnhDaiDien" Type="varchar" MaxLength="50" />
+    <Property Name="MoTa" Type="nvarchar" MaxLength="50" />
+    <Property Name="DonGia" Type="int" />
+    <Property Name="NgonNgu" Type="bit" />
+    <Property Name="TacGia" Type="nvarchar" MaxLength="50" />
+    <Property Name="MaLS" Type="varchar" MaxLength="10" Nullable="false" />
+  </EntityType>
+  <Association Name="FK__Sach__MaLS__3C69FB99">
+    <End Role="LoaiSach" Type="Self.LoaiSach" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Sach" Type="Self.Sach" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="LoaiSach">
+        <PropertyRef Name="MaLS" />
+      </Principal>
+      <Dependent Role="Sach">
+        <PropertyRef Name="MaLS" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Function Name="Sach_TimKiem" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="TenSach" Type="nvarchar" Mode="In" />
+    <Parameter Name="TacGia" Type="varchar" Mode="In" />
+  </Function>
+  <EntityContainer Name="ModelQLS_64130758StoreContainer">
+    <EntitySet Name="LoaiSach" EntityType="Self.LoaiSach" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Sach" EntityType="Self.Sach" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__Sach__MaLS__3C69FB99" Association="Self.FK__Sach__MaLS__3C69FB99">
+      <End Role="LoaiSach" EntitySet="LoaiSach" />
+      <End Role="Sach" EntitySet="Sach" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

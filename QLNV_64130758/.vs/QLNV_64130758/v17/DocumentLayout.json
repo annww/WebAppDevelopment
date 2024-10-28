@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1-Web Development\\3-GitHubUpload\\QLNV_64130758\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23BED107-65F9-40E4-959E-4C2938D34868}|QLNV_64130758\\QLNV_64130758.csproj|D:\\1-Web Development\\3-GitHubUpload\\QLNV_64130758\\qlnv_64130758\\views\\nhanviens64130758\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23BED107-65F9-40E4-959E-4C2938D34868}|QLNV_64130758\\QLNV_64130758.csproj|solutionrelative:qlnv_64130758\\views\\nhanviens64130758\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BED107-65F9-40E4-959E-4C2938D34868}|QLNV_64130758\\QLNV_64130758.csproj|D:\\1-Web Development\\3-GitHubUpload\\QLNV_64130758\\qlnv_64130758\\views\\nhanviens64130758\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23BED107-65F9-40E4-959E-4C2938D34868}|QLNV_64130758\\QLNV_64130758.csproj|solutionrelative:qlnv_64130758\\views\\nhanviens64130758\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BED107-65F9-40E4-959E-4C2938D34868}|QLNV_64130758\\QLNV_64130758.csproj|D:\\1-Web Development\\3-GitHubUpload\\QLNV_64130758\\qlnv_64130758\\views\\nhanviens64130758\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23BED107-65F9-40E4-959E-4C2938D34868}|QLNV_64130758\\QLNV_64130758.csproj|solutionrelative:qlnv_64130758\\views\\nhanviens64130758\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BED107-65F9-40E4-959E-4C2938D34868}|QLNV_64130758\\QLNV_64130758.csproj|D:\\1-Web Development\\3-GitHubUpload\\QLNV_64130758\\qlnv_64130758\\views\\nhanviens64130758\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23BED107-65F9-40E4-959E-4C2938D34868}|QLNV_64130758\\QLNV_64130758.csproj|solutionrelative:qlnv_64130758\\views\\nhanviens64130758\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BED107-65F9-40E4-959E-4C2938D34868}|QLNV_64130758\\QLNV_64130758.csproj|d:\\1-web development\\3-githubupload\\qlnv_64130758\\qlnv_64130758\\controllers\\nhanviens64130758controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BED107-65F9-40E4-959E-4C2938D34868}|QLNV_64130758\\QLNV_64130758.csproj|solutionrelative:qlnv_64130758\\controllers\\nhanviens64130758controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BED107-65F9-40E4-959E-4C2938D34868}|QLNV_64130758\\QLNV_64130758.csproj|D:\\1-Web Development\\3-GitHubUpload\\QLNV_64130758\\qlnv_64130758\\views\\nhanviens64130758\\gioithieu64130758.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23BED107-65F9-40E4-959E-4C2938D34868}|QLNV_64130758\\QLNV_64130758.csproj|solutionrelative:qlnv_64130758\\views\\nhanviens64130758\\gioithieu64130758.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BED107-65F9-40E4-959E-4C2938D34868}|QLNV_64130758\\QLNV_64130758.csproj|D:\\1-Web Development\\3-GitHubUpload\\QLNV_64130758\\qlnv_64130758\\views\\nhanviens64130758\\timkiemnv_64130758.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23BED107-65F9-40E4-959E-4C2938D34868}|QLNV_64130758\\QLNV_64130758.csproj|solutionrelative:qlnv_64130758\\views\\nhanviens64130758\\timkiemnv_64130758.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BED107-65F9-40E4-959E-4C2938D34868}|QLNV_64130758\\QLNV_64130758.csproj|D:\\1-Web Development\\3-GitHubUpload\\QLNV_64130758\\qlnv_64130758\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23BED107-65F9-40E4-959E-4C2938D34868}|QLNV_64130758\\QLNV_64130758.csproj|solutionrelative:qlnv_64130758\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BED107-65F9-40E4-959E-4C2938D34868}|QLNV_64130758\\QLNV_64130758.csproj|D:\\1-Web Development\\3-GitHubUpload\\QLNV_64130758\\qlnv_64130758\\views\\nhanviens64130758\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23BED107-65F9-40E4-959E-4C2938D34868}|QLNV_64130758\\QLNV_64130758.csproj|solutionrelative:qlnv_64130758\\views\\nhanviens64130758\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BED107-65F9-40E4-959E-4C2938D34868}|QLNV_64130758\\QLNV_64130758.csproj|D:\\1-Web Development\\3-GitHubUpload\\QLNV_64130758\\qlnv_64130758\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BED107-65F9-40E4-959E-4C2938D34868}|QLNV_64130758\\QLNV_64130758.csproj|solutionrelative:qlnv_64130758\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BED107-65F9-40E4-959E-4C2938D34868}|QLNV_64130758\\QLNV_64130758.csproj|D:\\1-Web Development\\3-GitHubUpload\\QLNV_64130758\\qlnv_64130758\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23BED107-65F9-40E4-959E-4C2938D34868}|QLNV_64130758\\QLNV_64130758.csproj|solutionrelative:qlnv_64130758\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BED107-65F9-40E4-959E-4C2938D34868}|QLNV_64130758\\QLNV_64130758.csproj|D:\\1-Web Development\\3-GitHubUpload\\QLNV_64130758\\qlnv_64130758\\content\\bootstrap-utilities.rtl.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{23BED107-65F9-40E4-959E-4C2938D34868}|QLNV_64130758\\QLNV_64130758.csproj|solutionrelative:qlnv_64130758\\content\\bootstrap-utilities.rtl.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BED107-65F9-40E4-959E-4C2938D34868}|QLNV_64130758\\QLNV_64130758.csproj|D:\\1-Web Development\\3-GitHubUpload\\QLNV_64130758\\qlnv_64130758\\content\\styleadmin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{23BED107-65F9-40E4-959E-4C2938D34868}|QLNV_64130758\\QLNV_64130758.csproj|solutionrelative:qlnv_64130758\\content\\styleadmin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BED107-65F9-40E4-959E-4C2938D34868}|QLNV_64130758\\QLNV_64130758.csproj|D:\\1-Web Development\\3-GitHubUpload\\QLNV_64130758\\qlnv_64130758\\models\\modelqlnv_64130758.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{23BED107-65F9-40E4-959E-4C2938D34868}|QLNV_64130758\\QLNV_64130758.csproj|solutionrelative:qlnv_64130758\\models\\modelqlnv_64130758.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\1-Web Development\\3-GitHubUpload\\QLNV_64130758\\QLNV_64130758\\Views\\NhanViens64130758\\Edit.cshtml",
+              "RelativeDocumentMoniker": "QLNV_64130758\\Views\\NhanViens64130758\\Edit.cshtml",
+              "ToolTip": "D:\\1-Web Development\\3-GitHubUpload\\QLNV_64130758\\QLNV_64130758\\Views\\NhanViens64130758\\Edit.cshtml",
+              "RelativeToolTip": "QLNV_64130758\\Views\\NhanViens64130758\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T13:16:01.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NhanViens64130758Controller.cs",
+              "DocumentMoniker": "D:\\1-Web Development\\3-GitHubUpload\\QLNV_64130758\\QLNV_64130758\\Controllers\\NhanViens64130758Controller.cs",
+              "RelativeDocumentMoniker": "QLNV_64130758\\Controllers\\NhanViens64130758Controller.cs",
+              "ToolTip": "D:\\1-Web Development\\3-GitHubUpload\\QLNV_64130758\\QLNV_64130758\\Controllers\\NhanViens64130758Controller.cs",
+              "RelativeToolTip": "QLNV_64130758\\Controllers\\NhanViens64130758Controller.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAIwL8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T13:02:05.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\1-Web Development\\3-GitHubUpload\\QLNV_64130758\\QLNV_64130758\\Views\\NhanViens64130758\\Create.cshtml",
+              "RelativeDocumentMoniker": "QLNV_64130758\\Views\\NhanViens64130758\\Create.cshtml",
+              "ToolTip": "D:\\1-Web Development\\3-GitHubUpload\\QLNV_64130758\\QLNV_64130758\\Views\\NhanViens64130758\\Create.cshtml",
+              "RelativeToolTip": "QLNV_64130758\\Views\\NhanViens64130758\\Create.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T13:39:02.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GioiThieu64130758.cshtml",
+              "DocumentMoniker": "D:\\1-Web Development\\3-GitHubUpload\\QLNV_64130758\\QLNV_64130758\\Views\\NhanViens64130758\\GioiThieu64130758.cshtml",
+              "RelativeDocumentMoniker": "QLNV_64130758\\Views\\NhanViens64130758\\GioiThieu64130758.cshtml",
+              "ToolTip": "D:\\1-Web Development\\3-GitHubUpload\\QLNV_64130758\\QLNV_64130758\\Views\\NhanViens64130758\\GioiThieu64130758.cshtml",
+              "RelativeToolTip": "QLNV_64130758\\Views\\NhanViens64130758\\GioiThieu64130758.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T13:02:44.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\1-Web Development\\3-GitHubUpload\\QLNV_64130758\\QLNV_64130758\\Views\\NhanViens64130758\\Index.cshtml",
+              "RelativeDocumentMoniker": "QLNV_64130758\\Views\\NhanViens64130758\\Index.cshtml",
+              "ToolTip": "D:\\1-Web Development\\3-GitHubUpload\\QLNV_64130758\\QLNV_64130758\\Views\\NhanViens64130758\\Index.cshtml",
+              "RelativeToolTip": "QLNV_64130758\\Views\\NhanViens64130758\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T13:18:10.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "D:\\1-Web Development\\3-GitHubUpload\\QLNV_64130758\\QLNV_64130758\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "QLNV_64130758\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "D:\\1-Web Development\\3-GitHubUpload\\QLNV_64130758\\QLNV_64130758\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "QLNV_64130758\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T12:53:51.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\1-Web Development\\3-GitHubUpload\\QLNV_64130758\\QLNV_64130758\\Views\\NhanViens64130758\\Delete.cshtml",
+              "RelativeDocumentMoniker": "QLNV_64130758\\Views\\NhanViens64130758\\Delete.cshtml",
+              "ToolTip": "D:\\1-Web Development\\3-GitHubUpload\\QLNV_64130758\\QLNV_64130758\\Views\\NhanViens64130758\\Delete.cshtml",
+              "RelativeToolTip": "QLNV_64130758\\Views\\NhanViens64130758\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T13:39:55.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\1-Web Development\\3-GitHubUpload\\QLNV_64130758\\QLNV_64130758\\Views\\NhanViens64130758\\Details.cshtml",
+              "RelativeDocumentMoniker": "QLNV_64130758\\Views\\NhanViens64130758\\Details.cshtml",
+              "ToolTip": "D:\\1-Web Development\\3-GitHubUpload\\QLNV_64130758\\QLNV_64130758\\Views\\NhanViens64130758\\Details.cshtml",
+              "RelativeToolTip": "QLNV_64130758\\Views\\NhanViens64130758\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T13:39:17.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TimKiemNV_64130758.cshtml",
+              "DocumentMoniker": "D:\\1-Web Development\\3-GitHubUpload\\QLNV_64130758\\QLNV_64130758\\Views\\NhanViens64130758\\TimKiemNV_64130758.cshtml",
+              "RelativeDocumentMoniker": "QLNV_64130758\\Views\\NhanViens64130758\\TimKiemNV_64130758.cshtml",
+              "ToolTip": "D:\\1-Web Development\\3-GitHubUpload\\QLNV_64130758\\QLNV_64130758\\Views\\NhanViens64130758\\TimKiemNV_64130758.cshtml",
+              "RelativeToolTip": "QLNV_64130758\\Views\\NhanViens64130758\\TimKiemNV_64130758.cshtml",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAADoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T00:25:31.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "D:\\1-Web Development\\3-GitHubUpload\\QLNV_64130758\\QLNV_64130758\\Models\\NhanVien.cs",
+              "RelativeDocumentMoniker": "QLNV_64130758\\Models\\NhanVien.cs",
+              "ToolTip": "D:\\1-Web Development\\3-GitHubUpload\\QLNV_64130758\\QLNV_64130758\\Models\\NhanVien.cs",
+              "RelativeToolTip": "QLNV_64130758\\Models\\NhanVien.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwBoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T13:59:41.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\1-Web Development\\3-GitHubUpload\\QLNV_64130758\\QLNV_64130758\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "QLNV_64130758\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\1-Web Development\\3-GitHubUpload\\QLNV_64130758\\QLNV_64130758\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "QLNV_64130758\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T13:21:28.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "bootstrap-utilities.rtl.css.map",
+              "DocumentMoniker": "D:\\1-Web Development\\3-GitHubUpload\\QLNV_64130758\\QLNV_64130758\\Content\\bootstrap-utilities.rtl.css.map",
+              "RelativeDocumentMoniker": "QLNV_64130758\\Content\\bootstrap-utilities.rtl.css.map",
+              "ToolTip": "D:\\1-Web Development\\3-GitHubUpload\\QLNV_64130758\\QLNV_64130758\\Content\\bootstrap-utilities.rtl.css.map",
+              "RelativeToolTip": "QLNV_64130758\\Content\\bootstrap-utilities.rtl.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-26T13:25:47.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "styleAdmin.css",
+              "DocumentMoniker": "D:\\1-Web Development\\3-GitHubUpload\\QLNV_64130758\\QLNV_64130758\\Content\\styleAdmin.css",
+              "RelativeDocumentMoniker": "QLNV_64130758\\Content\\styleAdmin.css",
+              "ToolTip": "D:\\1-Web Development\\3-GitHubUpload\\QLNV_64130758\\QLNV_64130758\\Content\\styleAdmin.css",
+              "RelativeToolTip": "QLNV_64130758\\Content\\styleAdmin.css",
+              "ViewState": "AgIAABQAAAAAAAAAAAAYwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-26T13:09:10.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ModelQLNV_64130758.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\1-Web Development\\3-GitHubUpload\\QLNV_64130758\\QLNV_64130758\\Models\\ModelQLNV_64130758.edmx",
+              "RelativeDocumentMoniker": "QLNV_64130758\\Models\\ModelQLNV_64130758.edmx",
+              "ToolTip": "D:\\1-Web Development\\3-GitHubUpload\\QLNV_64130758\\QLNV_64130758\\Models\\ModelQLNV_64130758.edmx [Diagram1]",
+              "RelativeToolTip": "QLNV_64130758\\Models\\ModelQLNV_64130758.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-10-26T12:52:18.435Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

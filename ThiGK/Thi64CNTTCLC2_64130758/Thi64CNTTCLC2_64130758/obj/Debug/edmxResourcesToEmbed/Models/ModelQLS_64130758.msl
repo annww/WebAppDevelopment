@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ModelQLS_64130758StoreContainer" CdmEntityContainer="Thi64CNTTCLC2_64130758Entities1">
+    <EntitySetMapping Name="LoaiSaches">
+      <EntityTypeMapping TypeName="ModelQLS_64130758.LoaiSach">
+        <MappingFragment StoreEntitySet="LoaiSach">
+          <ScalarProperty Name="MaLS" ColumnName="MaLS" />
+          <ScalarProperty Name="TenLS" ColumnName="TenLS" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Saches">
+      <EntityTypeMapping TypeName="ModelQLS_64130758.Sach">
+        <MappingFragment StoreEntitySet="Sach">
+          <ScalarProperty Name="MaSach" ColumnName="MaSach" />
+          <ScalarProperty Name="TenSach" ColumnName="TenSach" />
+          <ScalarProperty Name="AnhDaiDien" ColumnName="AnhDaiDien" />
+          <ScalarProperty Name="MoTa" ColumnName="MoTa" />
+          <ScalarProperty Name="DonGia" ColumnName="DonGia" />
+          <ScalarProperty Name="NgonNgu" ColumnName="NgonNgu" />
+          <ScalarProperty Name="TacGia" ColumnName="TacGia" />
+          <ScalarProperty Name="MaLS" ColumnName="MaLS" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="Sach_TimKiem" FunctionName="ModelQLS_64130758.Store.Sach_TimKiem" />
+  </EntityContainerMapping>
+</Mapping>
