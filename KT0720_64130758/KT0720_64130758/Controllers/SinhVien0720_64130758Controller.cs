@@ -18,9 +18,9 @@ namespace KT0720_64130758.Controllers
         string LayMaSV()
         {
             var maMax = db.SinhViens.ToList().Select(n => n.MaSV).Max();
-            int maNV = int.Parse(maMax.Substring(2)) + 1;
-            string NV = String.Concat("000", maNV.ToString());
-            return "NV" + NV.Substring(maNV.ToString().Length - 1);
+            int maSV = int.Parse(maMax.Substring(2)) + 1;
+            string SV = String.Concat("000", maSV.ToString());
+            return "SV" + SV.Substring(maSV.ToString().Length - 1);
         }
         public ActionResult GioiThieu_64130758()
         {

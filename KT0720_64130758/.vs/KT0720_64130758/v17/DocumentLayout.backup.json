@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\1-Web Development\\3-GitHubUpload\\KT0720_64130758\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FE4B0E6B-FEC8-40EC-BC9C-A07A7C036D61}|KT0720_64130758\\KT0720_64130758.csproj|D:\\1-Web Development\\3-GitHubUpload\\KT0720_64130758\\kt0720_64130758\\views\\sinhvien0720_64130758\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FE4B0E6B-FEC8-40EC-BC9C-A07A7C036D61}|KT0720_64130758\\KT0720_64130758.csproj|solutionrelative:kt0720_64130758\\views\\sinhvien0720_64130758\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FE4B0E6B-FEC8-40EC-BC9C-A07A7C036D61}|KT0720_64130758\\KT0720_64130758.csproj|D:\\1-Web Development\\3-GitHubUpload\\KT0720_64130758\\kt0720_64130758\\views\\sinhvien0720_64130758\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FE4B0E6B-FEC8-40EC-BC9C-A07A7C036D61}|KT0720_64130758\\KT0720_64130758.csproj|solutionrelative:kt0720_64130758\\views\\sinhvien0720_64130758\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE4B0E6B-FEC8-40EC-BC9C-A07A7C036D61}|KT0720_64130758\\KT0720_64130758.csproj|D:\\1-Web Development\\3-GitHubUpload\\KT0720_64130758\\kt0720_64130758\\views\\sinhvien0720_64130758\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FE4B0E6B-FEC8-40EC-BC9C-A07A7C036D61}|KT0720_64130758\\KT0720_64130758.csproj|solutionrelative:kt0720_64130758\\views\\sinhvien0720_64130758\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FE4B0E6B-FEC8-40EC-BC9C-A07A7C036D61}|KT0720_64130758\\KT0720_64130758.csproj|D:\\1-Web Development\\3-GitHubUpload\\KT0720_64130758\\kt0720_64130758\\controllers\\sinhvien0720_64130758controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE4B0E6B-FEC8-40EC-BC9C-A07A7C036D61}|KT0720_64130758\\KT0720_64130758.csproj|solutionrelative:kt0720_64130758\\controllers\\sinhvien0720_64130758controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE4B0E6B-FEC8-40EC-BC9C-A07A7C036D61}|KT0720_64130758\\KT0720_64130758.csproj|d:\\1-web development\\3-githubupload\\kt0720_64130758\\kt0720_64130758\\controllers\\sinhvien0720_64130758controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE4B0E6B-FEC8-40EC-BC9C-A07A7C036D61}|KT0720_64130758\\KT0720_64130758.csproj|solutionrelative:kt0720_64130758\\controllers\\sinhvien0720_64130758controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE4B0E6B-FEC8-40EC-BC9C-A07A7C036D61}|KT0720_64130758\\KT0720_64130758.csproj|d:\\1-web development\\3-githubupload\\kt0720_64130758\\kt0720_64130758\\views\\sinhvien0720_64130758\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE4B0E6B-FEC8-40EC-BC9C-A07A7C036D61}|KT0720_64130758\\KT0720_64130758.csproj|solutionrelative:kt0720_64130758\\views\\sinhvien0720_64130758\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE4B0E6B-FEC8-40EC-BC9C-A07A7C036D61}|KT0720_64130758\\KT0720_64130758.csproj|D:\\1-Web Development\\3-GitHubUpload\\KT0720_64130758\\kt0720_64130758\\views\\sinhvien0720_64130758\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE4B0E6B-FEC8-40EC-BC9C-A07A7C036D61}|KT0720_64130758\\KT0720_64130758.csproj|solutionrelative:kt0720_64130758\\views\\sinhvien0720_64130758\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE4B0E6B-FEC8-40EC-BC9C-A07A7C036D61}|KT0720_64130758\\KT0720_64130758.csproj|D:\\1-Web Development\\3-GitHubUpload\\KT0720_64130758\\kt0720_64130758\\views\\sinhvien0720_64130758\\timkiem_64130758.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -93,24 +93,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\1-Web Development\\3-GitHubUpload\\KT0720_64130758\\KT0720_64130758\\Views\\SinhVien0720_64130758\\Index.cshtml",
               "RelativeDocumentMoniker": "KT0720_64130758\\Views\\SinhVien0720_64130758\\Index.cshtml",
               "ToolTip": "D:\\1-Web Development\\3-GitHubUpload\\KT0720_64130758\\KT0720_64130758\\Views\\SinhVien0720_64130758\\Index.cshtml",
               "RelativeToolTip": "KT0720_64130758\\Views\\SinhVien0720_64130758\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-27T00:56:37.082Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\1-Web Development\\3-GitHubUpload\\KT0720_64130758\\KT0720_64130758\\Views\\SinhVien0720_64130758\\Delete.cshtml",
               "RelativeDocumentMoniker": "KT0720_64130758\\Views\\SinhVien0720_64130758\\Delete.cshtml",
@@ -118,18 +118,17 @@
               "RelativeToolTip": "KT0720_64130758\\Views\\SinhVien0720_64130758\\Delete.cshtml",
               "ViewState": "AgIAADYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-27T01:00:08.843Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-27T01:00:08.843Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "SinhVien0720_64130758Controller.cs",
               "DocumentMoniker": "D:\\1-Web Development\\3-GitHubUpload\\KT0720_64130758\\KT0720_64130758\\Controllers\\SinhVien0720_64130758Controller.cs",
               "RelativeDocumentMoniker": "KT0720_64130758\\Controllers\\SinhVien0720_64130758Controller.cs",
               "ToolTip": "D:\\1-Web Development\\3-GitHubUpload\\KT0720_64130758\\KT0720_64130758\\Controllers\\SinhVien0720_64130758Controller.cs",
               "RelativeToolTip": "KT0720_64130758\\Controllers\\SinhVien0720_64130758Controller.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBUAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-27T00:50:59.877Z",
               "EditorCaption": ""
@@ -160,13 +159,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\1-Web Development\\3-GitHubUpload\\KT0720_64130758\\KT0720_64130758\\Views\\SinhVien0720_64130758\\Create.cshtml",
               "RelativeDocumentMoniker": "KT0720_64130758\\Views\\SinhVien0720_64130758\\Create.cshtml",
               "ToolTip": "D:\\1-Web Development\\3-GitHubUpload\\KT0720_64130758\\KT0720_64130758\\Views\\SinhVien0720_64130758\\Create.cshtml",
               "RelativeToolTip": "KT0720_64130758\\Views\\SinhVien0720_64130758\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-27T01:00:09.106Z",
               "EditorCaption": ""
