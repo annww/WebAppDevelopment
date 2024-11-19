@@ -1,6 +1,6 @@
-﻿create database QLNV_64130758
+﻿create database QLNV_64130005
 go
-use QLNV_64130758
+use QLNV_64130005
 go
 CREATE TABLE PhongBan
 (
@@ -33,7 +33,7 @@ CREATE TABLE QuanTri
 INSERT INTO PhongBan VALUES('KD',N'Phòng kinh doanh'),(N'KT',N'Phòng Kế toán')
 
 GO
-INSERT INTO QuanTri VALUES('hong.dta.64cntt@ntu.edu.vn',1,N'Ánh Hồng','123')
+INSERT INTO QuanTri VALUES('an.nh.64cntt@ntu.edu.vn',1,N'Duy An','123')
 GO
 INSERT NhanVien VALUES (N'KD001', N'Vũ Tiến', N'Dương', 1, CAST(N'1995-11-23' AS Date), 6100000, N'employee.png', N'Nha Trang, Khánh Hòa', N'KD')
 INSERT NhanVien VALUES (N'KD0012', N'Bùi Chí', N'Thành', 1, CAST(N'1990-01-01' AS Date), 5500000, N'employee.png', N'Nha Trang - Khánh Hòa', N'KD')

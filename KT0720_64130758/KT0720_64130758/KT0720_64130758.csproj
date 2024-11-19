@@ -129,7 +129,7 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
-    <Compile Include="Controllers\Home64130758Controller.cs" />
+    <Compile Include="Controllers\AccessController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\SinhVien0720_64130758Controller.cs" />
     <Compile Include="Global.asax.cs">
@@ -239,6 +239,7 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="images\" />
+    <Folder Include="Views\Access\" />
     <Folder Include="Views\Home64130758\" />
   </ItemGroup>
   <ItemGroup>

@@ -22,6 +22,12 @@ create table SinhVien
 	ON UPDATE CASCADE
 	ON DELETE CASCADE
 )
+
+create table Category
+(
+	Id varchar(10) primary key,
+	Name 
+)
 go 
 insert into Lop values 
 ('01', N'Công nghệ thông tin'),
